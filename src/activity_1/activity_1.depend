@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1619194313 source:c:\users\user\desktop\activity1\src\activity_1\fuse.c
+	<avr/io.h>
+
