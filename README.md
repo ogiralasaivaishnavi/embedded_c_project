@@ -2,4 +2,4 @@
 
 ## Activity 1
 
-#### To find the state of LED for different input combinations of heater and button sensor.
+#### To Find The State Of LED For Different Input Combinations Of Heater And Button Sensor
