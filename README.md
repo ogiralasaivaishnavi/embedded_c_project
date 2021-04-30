@@ -2,10 +2,15 @@
 # embedded_c_project with Continuous Integration and Code Quality
 
 ## Simulation results
+
+Activity1
 ![Activity1](https://github.com/ogiralasaivaishnavi/embedded_c_project/blob/57e4867ea72c767ea09d6520951cd2f840b70553/simulation/Activity1.png)
+Activity2
 ![Activity2](https://github.com/ogiralasaivaishnavi/embedded_c_project/blob/57e4867ea72c767ea09d6520951cd2f840b70553/simulation/Activity2.PNG)
+Activity3
 ![Activity3](https://github.com/ogiralasaivaishnavi/embedded_c_project/blob/57e4867ea72c767ea09d6520951cd2f840b70553/simulation/Activity3.PNG)
-![Activity4] (https://github.com/ogiralasaivaishnavi/embedded_c_project/blob/57e4867ea72c767ea09d6520951cd2f840b70553/simulation/Activity4.PNG)
+Activity4
+![Activity4](https://github.com/ogiralasaivaishnavi/embedded_c_project/blob/57e4867ea72c767ea09d6520951cd2f840b70553/simulation/Activity4.PNG)
 
 
 
