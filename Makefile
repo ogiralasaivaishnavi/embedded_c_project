@@ -1,4 +1,4 @@
-PROJ_NAME = Activity
+PROJ_NAME = embedded_C_project
 
 BUILD_DIR = Build
 
