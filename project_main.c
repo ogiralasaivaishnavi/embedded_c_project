@@ -1,10 +1,20 @@
+/**
+ * @file project_main.c
+ * @author ogirala sai vaishnavi ()
+ * @brief embedded_C_project
+ * @version 0.1
+ * @date 2021-04-23
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #include<util/delay.h>
 
-#include "activity1.h" // B1, B2 input pins to high results B0 output pin to high
-#include "activity2.h" // AC0 is used as input to vary temperature 
-#include "activity3.h" // OC1A (B1) to output pwm signal
-#include "activity4.h" // UART0 is used to actuate the amount of heat
+#include "activity1.h" /** * @brief  B1, B2 input pins to high results B0 output pin to high***/
+#include "activity2.h" /** * @brief AC0 is used as input to vary temperature***/ 
+#include "activity3.h" /** * @brief OC1A (B1) to output pwm signal ***/
+#include "activity4.h" /** * @brief UART0 is used to actuate the amount of heat ***/
 
 int main(void)
 {
