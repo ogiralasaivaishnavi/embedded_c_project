@@ -16,4 +16,4 @@ jobs:
     - name: get_cppcheck
       run: gcc actity1.c -o activity1.exe
     - name: Code Quality
-      run: make src.c
+      run: make activity1.c
