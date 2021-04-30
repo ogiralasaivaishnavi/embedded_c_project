@@ -2,7 +2,7 @@
 #define _ACTIVITY_4_
 /**
  * @file activity4.h
- * @author Ragasri K
+ * @author ogirala sai vaishnavi
  * @brief The value of amount of heat actuation using UART in atmega328 MCU.
  * @version 0.1
  * @date 2021-04-29

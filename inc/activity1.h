@@ -2,8 +2,8 @@
 #define _ACTIVITY_1_
 /**
  * @file activity1.h
- * @author Ragasri K
- * @brief This activity is to sence 2 inputs that actuate LED if both inputs are high.
+ * @author ogirala sai vaishnavi
+ * @brief activity to find button sensor ON or not
  * @version 0.1
  * @date 2021-04-24
  * 

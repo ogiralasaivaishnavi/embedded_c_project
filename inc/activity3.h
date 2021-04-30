@@ -2,8 +2,8 @@
 #define _ACTIVITY_3_
 /**
  * @file activity3.h
- * @author Ragasri K
- * @brief To generate pwm signal 
+ * @author ogirala sai vaishnavi
+ * @brief To generate pwm signal according to ADC output
  * @version 0.1
  * @date 2021-04-28
  * 

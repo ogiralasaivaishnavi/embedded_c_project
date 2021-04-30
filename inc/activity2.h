@@ -2,8 +2,8 @@
 #define _ACTIVITY_2_
 /**
  * @file activity2.h
- * @author Ragasri K
- * @brief reading analog value from the temperature set potentiometer.
+ * @author ogirala sai vaishnavi
+ * @brief reading analog value from the ADC i.e., potentiometer
  * @version 0.1
  * @date 2021-04-26
  * 
