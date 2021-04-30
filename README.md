@@ -1,10 +1,2 @@
-
-# embedded_c_project with Continuous Integration and Code Quality
-
-
-
-#### CI and Code Quality
-
-
-
-
+# embedded_c_project
+## all activities
