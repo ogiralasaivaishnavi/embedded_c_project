@@ -1,3 +1,4 @@
+/** @brief activity1 ***/
 #include "activity1.h"
 
 void activity1_init(){

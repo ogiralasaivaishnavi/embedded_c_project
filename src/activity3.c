@@ -1,3 +1,4 @@
+/*** @brief activity3 ***/
 #include"activity3.h"
 #include <avr/io.h>
 #include<util/delay.h>

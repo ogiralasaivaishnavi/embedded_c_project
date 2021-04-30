@@ -1,3 +1,4 @@
+/*** @brief activity2 ***/
 #include "activity2.h"
 
 void initADC() {
